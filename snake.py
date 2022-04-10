@@ -62,4 +62,4 @@ class Snake:
         if self.head.heading() != LEFT:
             self.head.setheading(RIGHT)
             
-# Let ME KNOW IF you BEAT my HIGHSCORE .. YAAY!!! 
+
