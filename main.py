@@ -45,3 +45,5 @@ while is_game_on:
 
 
 screen.exitonclick()
+
+# Let ME KNOW IF you BEAT my HIGHSCORE .. YAAY!!! 
